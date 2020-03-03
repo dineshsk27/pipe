@@ -14,7 +14,7 @@ response = client.run_instances(
             },
         },
     ],
-    ImageId='ami-0e38b48473ea57778',
+    ImageId='ami-0f767afb799f45102',
     InstanceType='t2.micro',
     MaxCount=1,
     MinCount=1,
